@@ -1,0 +1,16 @@
+# Arquivos e pastas específicas a serem ignorados
+
+# Arquivos de configuração
+.vscode/
+.idea/
+
+# Arquivos de compilação ou gerados
+dist/
+build/
+*.min.js
+*.min.css
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
